@@ -1,8 +1,22 @@
 {
   "name": "nil-ui",
-  "displayName": "nil-ui",
+  "displayName": "Nil UI",
   "description": "Nil UI Theme for VSCode",
   "version": "0.0.1",
+  "publisher": "Nitrino",
+  "author": {
+    "name": "Petr Stepchenko",
+    "email": "nitrinodev@gmail.com",
+    "url": "https://github.com/nitrino"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nitrino/vscode-theme-nil-ui.git"
+  },
+  "homepage": "https://github.com/Nitrino/vscode-theme-nil-ui",
+  "bugs": {
+    "url": "https://github.com/Nitrino/vscode-theme-nil-ui/issues"
+  },
   "engines": {
     "vscode": "^1.33.0"
   },
