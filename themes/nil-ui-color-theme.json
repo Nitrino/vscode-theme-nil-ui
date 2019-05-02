@@ -99,7 +99,6 @@
     "titleBar.inactiveBackground": "#21252b",
     "titleBar.inactiveForeground": "#6b717d"
   },
-  "window.titleBarStyle": "custom",
   "tokenColors": [
     {
       "name": "support.variable.magic.python",

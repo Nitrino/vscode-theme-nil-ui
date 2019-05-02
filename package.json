@@ -1,21 +1,21 @@
 {
-    "name": "nil-ui",
-    "displayName": "nil-ui",
-    "description": "Nil UI Theme for VSCode",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.33.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Nil UI",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Nil UI-color-theme.json"
-            }
-        ]
-    }
+  "name": "nil-ui",
+  "displayName": "nil-ui",
+  "description": "Nil UI Theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nil UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nil-ui-color-theme.json"
+      }
+    ]
+  }
 }

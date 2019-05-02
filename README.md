@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "nil-ui"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Nil UI Theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is based on the beautiful [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) theme with added contrast and colors enhancements to my taste.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![screenshot](https://raw.githubusercontent.com/Nitrino/vscode-theme-nil-ui/master/images/screenshot_1.png)
