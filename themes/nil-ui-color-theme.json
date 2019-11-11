@@ -4,6 +4,7 @@
   "colors": {
     "sideBarTitle.foreground": "#bbbbbb",
     "tab.activeBorderTop": "#5889ed",
+    "activityBar.activeBorder": "#5889ed",
     "activityBar.border": "#171b1f",
     "terminal.background": "#282a34",
     "activityBar.background": "#21252b",
